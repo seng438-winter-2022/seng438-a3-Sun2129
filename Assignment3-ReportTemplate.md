@@ -58,6 +58,7 @@ testSingleNaNInputForMethodCombine()
 Pairs Covered: (1-2), (1-6), (1-7), (1-4), (1-6), (6-8), (7-8)
 
 DU-Pair Coverage Calculation:
+
 DataUtilities(calculateColumnTotal()):
 Total
 C-uses: 10
