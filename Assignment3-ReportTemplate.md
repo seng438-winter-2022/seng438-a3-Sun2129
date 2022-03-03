@@ -18,7 +18,69 @@ The focus of the assignment is on Unit-Testing. Unit Tests will be performed usi
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-[Link to the Data Flow Diagrams.](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataFlowDiagrams.pdf)
+[Link to the Data Flow Diagrams and def-use sets per statement.](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataFlowDiagrams.pdf)
+
+[List of all du-pairs per variable]
+
+List of pairs covered by each test case:
+
+DataUtilities(calculateColumnTotal()): 
+
+testAValidInputForMethodCalculateColumnTotal()
+Pairs covered: (1-2), (1-4), (1-8), (1-5), (1-6), (4-7), (5-5), (5-6), (6-7), (6-8), (8-9), (8-10), (10-11), (3-11)
+
+testNullValues2DObjectForMethodCalculateColumnTotal()
+Pairs covered: (1-2)
+
+testForNaNInputForColumnForMethodCalculateColumnTotal()
+Pairs covered: (1-2), (1-4), (1-8), (1-5), (1-6), (4-7), (5-5), (5-6), (6-7), (6-8), (3-11)
+
+testForNullIntArrayForMethodCalculateColumnTotal()
+Pairs covered: (1-2), (1-4), (1-8), (1-5), (4-7), (5-5)
+
+testForNaNIntArrayForMethodCalculateColumnTotal()
+Pairs covered: (1-2), (1-4), (1-8), (1-5), (1-6), (4-7), (5-5), (5-6), (6-7), (6-8), (8-9), (8-10), (10-11), (3-11)
+
+Range(combine()): 
+
+testValidRangeInputForMethodCombine()
+Pairs Covered: (1-2), (1-6), (1-7), (1-4), (1-6), (6-8), (7-8)
+
+testSingleNullRangeInputForMethodCombine()
+Pairs Covered: (1-2), (1-4), (1-5)
+
+testTwoNullRangesInputForMethodCombine()
+Pairs Covered: (1-2), (1-3)
+
+testSingleNaNInputForMethodCombine()
+Pairs Covered: (1-2), (1-6), (1-7), (1-4), (1-6), (6-8), (7-8)
+
+DU-Pair Coverage Calculation:
+DataUtilities(calculateColumnTotal()):
+Total
+C-uses: 10
+P-uses: 5
+
+Covered
+C-uses: 10
+P-uses: 5
+
+Formula: ((Covered c-use + covered p-use)/((Total c-uses + Total p-uses) - (Infeasible C-uses + Infeasible P-uses))) x 100%
+
+((10 + 5) / ((10 + 5) - 0)) x 100% =  100% Coverage
+
+Range(combine()):
+Total
+C-uses: 5
+P-uses: 2
+
+Covered
+C-uses: 5
+P-uses: 2
+
+Formula: ((Covered c-use + covered p-use)/((Total c-uses + Total p-uses) - (Infeasible C-uses + Infeasible P-uses))) x 100%
+
+((5 + 2) / ((5 + 2) - 0)) x 100% =  100% Coverage
 
 # 3 A detailed description of the testing strategy for the new unit test
 
