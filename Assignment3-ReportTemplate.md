@@ -18,7 +18,6 @@ Text…
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-[SENG438A3.drawio.pdf](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/files/8173728/SENG438A3.drawio.pdf)
 
 
 # 3 A detailed description of the testing strategy for the new unit test
