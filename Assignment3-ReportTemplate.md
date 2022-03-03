@@ -52,7 +52,7 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 [RangeTest Branch Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/RangeTestBranchCoverage.png)
 
-RangeTest method Coverage
+[RangeTest method Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/RangeTestMethodCoverage.png)
 
 DataUtilitiesTest Branch Coverage
 
