@@ -60,6 +60,7 @@ Pairs Covered: (1-2), (1-6), (1-7), (1-4), (1-6), (6-8), (7-8)
 **DU-Pair Coverage Calculation:**
 
 DataUtilities(calculateColumnTotal()):
+
 Total
 C-uses: 10
 P-uses: 5
@@ -73,6 +74,7 @@ Formula: ((Covered c-use + covered p-use)/((Total c-uses + Total p-uses) - (Infe
 ((10 + 5) / ((10 + 5) - 0)) x 100% =  100% Coverage
 
 Range(combine()):
+
 Total
 C-uses: 5
 P-uses: 2
