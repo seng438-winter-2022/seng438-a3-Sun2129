@@ -48,7 +48,7 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 
-RangeTest Statement Coverage
+[RangeTest Statement Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/RangeTestStatementCoverage.png)
 
 RangeTest Branch Coverage
 
