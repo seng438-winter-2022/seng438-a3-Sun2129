@@ -121,9 +121,9 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 [RangeTest method Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/RangeTestMethodCoverage.png)
 
-[DataUtilitiesTest Branch Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesStatementCoverage.png)
+[DataUtilitiesTest Statement Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesStatementCoverage.png)
 
-[DataUtilitiesTest Statement Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesBranchCoverage.png)
+[DataUtilitiesTest Branch Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesBranchCoverage.png)
 
 [DataUtilitiesTest Method Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesMethodCoverage.png)
 
