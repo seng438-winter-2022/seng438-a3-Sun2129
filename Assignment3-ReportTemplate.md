@@ -56,7 +56,7 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 [DataUtilitiesTest Branch Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesStatementCoverage.png)
 
-[DataUtilitiesTest Statement Coverage]
+[DataUtilitiesTest Statement Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesBranchCoverage.png)
 
 [DataUtilitiesTest Method Coverage]
 
