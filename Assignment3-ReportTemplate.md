@@ -24,7 +24,7 @@ The focus of the assignment is on Unit-Testing. Unit Tests will be performed usi
 
 [List of all du-pairs per variable for DataUtilities](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DUPairRange.PNG)
 
-List of pairs covered by each test case:
+**List of pairs covered by each test case:**
 
 DataUtilities(calculateColumnTotal()): 
 
@@ -57,7 +57,7 @@ Pairs Covered: (1-2), (1-3)
 testSingleNaNInputForMethodCombine()
 Pairs Covered: (1-2), (1-6), (1-7), (1-4), (1-6), (6-8), (7-8)
 
-DU-Pair Coverage Calculation:
+**DU-Pair Coverage Calculation:**
 
 DataUtilities(calculateColumnTotal()):
 Total
