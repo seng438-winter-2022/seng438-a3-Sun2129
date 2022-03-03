@@ -5,9 +5,9 @@
 | Group \#:      |  6   |
 | -------------- | --- |
 | Student Names: |  Sanchit Kumar   |
-|                |     |
-|                |     |
-|                |     |
+|                |  Aninda Shome   |
+|                |  Ibrahim Asad   |
+|                |  Isaiah Asaolu   |
 
 (Note that some labs require individual reports while others require one report
 for each group. Please see each lab document for details.)
