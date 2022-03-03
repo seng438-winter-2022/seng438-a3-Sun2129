@@ -54,11 +54,11 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 [RangeTest method Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/RangeTestMethodCoverage.png)
 
-DataUtilitiesTest Branch Coverage
+[DataUtilitiesTest Branch Coverage](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataUtilitiesStatementCoverage.png)
 
-DataUtilitiesTest Statement Coverage
+[DataUtilitiesTest Statement Coverage]
 
-DataUtilitiesTest Method Coverage
+[DataUtilitiesTest Method Coverage]
 
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
