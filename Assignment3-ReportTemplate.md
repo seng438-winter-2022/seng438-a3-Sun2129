@@ -18,7 +18,7 @@ Text…
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-Link to the Data Flow Diagrams.(/https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataFlowDiagrams.pdf)
+Link to the Data Flow Diagrams.(./https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataFlowDiagrams.pdf)
 
 # 3 A detailed description of the testing strategy for the new unit test
 
