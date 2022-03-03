@@ -20,7 +20,9 @@ The focus of the assignment is on Unit-Testing. Unit Tests will be performed usi
 
 [Link to the Data Flow Diagrams and def-use sets per statement.](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DataFlowDiagrams.pdf)
 
-[List of all du-pairs per variable]
+[List of all du-pairs per variable for DataUtilities](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DUPairDataUtilities.PNG)
+
+[List of all du-pairs per variable for DataUtilities](https://github.com/seng438-winter-2022/seng438-a3-Sun2129/blob/main/DUPairRange.PNG)
 
 List of pairs covered by each test case:
 
