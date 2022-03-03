@@ -48,6 +48,17 @@ The test case, testAValidInputForMethodCalculateColumnTotal, increases the state
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 
+RangeTest Statement Coverage
+
+RangeTest Branch Coverage
+
+RangeTest method Coverage
+
+DataUtilitiesTest Branch Coverage
+
+DataUtilitiesTest Statement Coverage
+
+DataUtilitiesTest Method Coverage
 
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
